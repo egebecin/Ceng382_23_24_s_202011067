@@ -1,9 +1,0 @@
-td:hover{
-    background-color: rgb(95, 95, 199);
-}
-th:hover{
-    background-color: rgb(95, 95, 199);
-}
-input[type=submit]:hover{
-    background-color: greenyellow;
-}
